@@ -65,7 +65,7 @@
 	echo $ferrari->ngebut();
 
 	// Penggunaan Protected Access Modifier
-	// Protected Property -> agar bisa property dan method bisa diakses oleh child & parent class
+	// Protected Property -> agar property dan method bisa diakses oleh child & parent class
 	
 	// Parent Class
 	class Mobilll

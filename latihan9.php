@@ -13,7 +13,7 @@
 
 		public function setMerk($merk)
 		{
-			$this->merk = $merk;
+			$this->mer k = $merk;
 		}
 
 		public function getMerk()
